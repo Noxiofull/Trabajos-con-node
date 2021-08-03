@@ -1,2 +1,2 @@
 # Trabajos-con-node
-Trabajos realizado con node y mongoDB
+Trabajo realizado con node y mongoDB
